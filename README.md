@@ -7,7 +7,7 @@
 
 This project uses the ICNet segmentation model for the video segmentation task.
 
-Our modified ICNet uses the Resnet model as its backbone. The results yields faster fps and better accuracy.
+Our modified ICNet uses the Resnet model as its backbone. The results yield faster fps and better accuracy.
 
 We are able to retrieve mIoU values for up to 0.65 and fps to 50 fps.
 
