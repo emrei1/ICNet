@@ -2,7 +2,7 @@
 
 ### Authors: Cem Ozan Dogan and Emre Inceoglu
 
-![]()
+![](https://github.com/emrei1/ICNet/blob/master/video-gif.gif)
 
 
 This project uses the ICNet segmentation model for the video segmentation task.
