@@ -5,7 +5,7 @@
 ![](https://github.com/emrei1/ICNet/blob/master/video-gif.gif)
 
 
-This project uses the ICNet segmentation model for the video segmentation task.
+This project uses the ICNet segmentation model for the real-time video segmentation task.
 
 We use a modified version of the ICNet that uses the Resnet model as its backbone. The results yield faster fps and better accuracy.
 
